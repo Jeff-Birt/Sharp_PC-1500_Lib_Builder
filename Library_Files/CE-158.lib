@@ -1,0 +1,7 @@
+ ; CE-158 library file
+OUTSTAT_REG      = 7850  ; CE-158 OUTSTAT value
+RS232C           = 7851  ; CE-158 Console 1 (RS232C)
+CRLF_REG         = 7855  ; CE-158 Codes CR or LF
+ZONE             = 7856  ; CE-158 ZONE
+SETDEV_REV       = 7857  ; CE-158 SETDEV value
+SETCOM_REG       = 7858  ; CE-158 SETCOM
