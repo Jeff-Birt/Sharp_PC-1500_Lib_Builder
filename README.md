@@ -22,3 +22,11 @@ CE-150, CE-151, CE-155, CE-158, CE-159, CE-161, ROM4, ROM8, ROM16 – Running ma
 
 Path - contains the path you wish the generated library files to be saved to. If this cell is blank, you will be prompted with a save dialog to select the desired destination folder. The path is then saved to Cell A2 in 'Path' If you choose to save the Excel file after selecting the destination folder you will not be prompted for it again. If you want to use a different folder, then simply delete 'Path' Cell A2.
 
+
+Other files:
+PC-1500_Memory_Map_Norlin Rober_Pocket_Computer_Newsletter.docx - Memmory map by Norline Rober
+PC-1500_Memory_Map_ROM1500.xlsx - Memory map from ROM1500 program
+Sharp lh5801 Opcode Tables.xlsx - Opcodes by number and mnumonic in both Sharp and Z80 formats
+Sharp PC-1500 Development Notes.docx - Random PC-1500 develepment notes of mine
+Sharp PC-1500 Error Codes.docx - List of all error codes for PC-1500 and accesories
+Sharp_PC-1500_LCD_Mapping.png - Graphic explaining odd LCD mapping
