@@ -1,2 +1,2 @@
  ; ROM4 library file
-ROM_ST           = 3000  ; Start of 4K ROM
+ROM_ST            = $3000 ; Start of 4K ROM
